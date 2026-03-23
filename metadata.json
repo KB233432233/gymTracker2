@@ -1,0 +1,5 @@
+{
+  "name": "IronTrack: Gym Logger & Planner",
+  "description": "A comprehensive fitness tracking app with real-time workout logging, 1RM calculations, and a dynamic weekly workout planner.",
+  "requestFramePermissions": []
+}
